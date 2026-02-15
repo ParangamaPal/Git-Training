@@ -1,1 +1,4 @@
-
+touch file.txt
+echo "Hello world" > file.txt
+touch file1.txt
+echo "Hello Earth" > file1.txt
